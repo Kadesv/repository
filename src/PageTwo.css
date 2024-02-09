@@ -1,0 +1,25 @@
+name {
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 28px;
+    font-style: hsl(0, 0%, 100%);
+}
+
+location {
+    font-weight: 600;
+    font-size: 14px;
+    font-style: hsl(75, 94%, 57%);
+}
+
+decription {
+    font-weight: 400xp;
+    font-size: 14px;
+    font-style: hsl(0, 0%, 100%);
+}
+
+linkButtons {
+    font-weight: 600;
+    font-size: 14px;
+    font-style: hsl(0, 0%, 100%);
+    background-color: hsl(75, 94%, 57%);
+}
