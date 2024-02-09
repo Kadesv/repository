@@ -3,6 +3,7 @@ export default function PageTwo() {
 
   return (
     <>
+    <link rel="stylesheet" href="/src/PageTwo.css"/>
     Page Two
 
     Picture
@@ -10,7 +11,7 @@ export default function PageTwo() {
     Jessica Randall
     London, United Kingdom
     "Front-end developer and avid reader."
-    <Button>GitHub</Button>
+    <Button class = {linkButtons}>GitHub</Button>
     <Button>Frontend Mentor</Button>
     <Button>LinkedIn</Button>
     <Button>Twitter</Button>
