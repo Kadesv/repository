@@ -19,7 +19,7 @@ export default function PageOne() {
         <div
           className="creator-section">
           <div className="user-image">
-            <img src="Screenshot.png" id="profile" />
+            <img src="" id="profile" />
           </div>
           <div className="user-username">
             <p> Yugin Paudel </p>
